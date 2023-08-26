@@ -26,3 +26,7 @@
 ### Practicals
 - Tue 10:45 - 12:45
 - Fri 15:30 - 17:30
+
+## Grading
+Assignment 30%
+Final exam using notebook 70%
